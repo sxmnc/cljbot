@@ -4,7 +4,8 @@ A Discord bot for maniacs.
 
 ## Usage
 
-FIXME
+1. Add token to `config.private.edn`
+2. `lein run`
 
 ## License
 
